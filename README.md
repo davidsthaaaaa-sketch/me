@@ -4,9 +4,9 @@
 <HEAD><TITLE> Demonstration of ordered and unordered list
 </TITLE></HEAD>
 	<H3> Ordered list </H3>
-<OL>![download](https://github.com/user-attachments/assets/6516f249-ad13-43d2-8420-e84b9e2853d9)
+<OL>
+	<LI> Apple </LI><img src="download01.jpg">![download01](https://github.com/user-attachments/assets/413918fd-d2f4-4e25-9b92-a583a55801ac)
 
-	<LI> Apple </LI><img src="download01.jpg">
 	<LI> Banana </LI><img src="download02.jpg">
 	<LI> Mango </LI><img src="download03.jpg">
 	<LI> Lichi </LI><img src="download04.jpg">
@@ -22,7 +22,8 @@
 </OL>
 <H3> Ordered list using TYPE ="a"</H3>
 <OL TYPE="i">
-	<LI> TIGER </LI><img src="download.jpg">
+	<LI> TIGER </LI><img src="download.jpg">![download](https://github.com/user-attachments/assets/6516f249-ad13-43d2-8420-e84b9e2853d9)
+
 	<LI> LION </LI><img src="download11.jpg">
 	<LI> MONKEY </LI><img src="download12.jpg">
 	<LI> BEAR </LI><img src="download13.jpg">
