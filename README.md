@@ -4,7 +4,8 @@
 <HEAD><TITLE> Demonstration of ordered and unordered list
 </TITLE></HEAD>
 	<H3> Ordered list </H3>
-<OL>
+<OL>![download](https://github.com/user-attachments/assets/6516f249-ad13-43d2-8420-e84b9e2853d9)
+
 	<LI> Apple </LI><img src="download01.jpg">
 	<LI> Banana </LI><img src="download02.jpg">
 	<LI> Mango </LI><img src="download03.jpg">
