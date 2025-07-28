@@ -5,7 +5,7 @@
 </TITLE></HEAD>
 	<H3> Ordered list </H3>
 <OL>
-	<LI> Apple </LI><img src="download01.jpg">![download01](https://github.com/user-attachments/assets/413918fd-d2f4-4e25-9b92-a583a55801ac)
+	<LI> Apple </LI><img src="download01.jpg">(https://github.com/user-attachments/assets/413918fd-d2f4-4e25-9b92-a583a55801ac)
 
 	<LI> Banana </LI><img src="download02.jpg">
 	<LI> Mango </LI><img src="download03.jpg">
